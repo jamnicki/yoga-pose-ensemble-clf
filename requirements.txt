@@ -1,0 +1,9 @@
+dvc[gdrive]
+black[jupyter]
+isort
+
+pandas
+ipykernel
+ipywidgets
+
+pillow
