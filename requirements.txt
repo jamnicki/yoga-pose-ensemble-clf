@@ -3,7 +3,7 @@ black[jupyter]
 isort
 
 pandas
+pillow
+
 ipykernel
 ipywidgets
-
-pillow
