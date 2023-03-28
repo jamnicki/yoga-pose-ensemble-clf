@@ -5,4 +5,4 @@ University course project: Machine learning -- Ensemble Methods of Yoga Pose Cla
 ## dev
 `pip install -r requirements.txt`
 
-`dvc get data/yoga_dataset.dvc`
+`dvc pull`
