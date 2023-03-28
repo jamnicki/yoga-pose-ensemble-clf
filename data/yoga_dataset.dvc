@@ -1,0 +1,5 @@
+outs:
+- md5: 484dc66da8a8dad8fad06f280753a399.dir
+  size: 1105237767
+  nfiles: 5996
+  path: yoga_dataset
