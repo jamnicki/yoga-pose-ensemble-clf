@@ -3,6 +3,7 @@ black[jupyter]
 isort
 
 pandas
+matplotlib
 pillow
 
 ipykernel
