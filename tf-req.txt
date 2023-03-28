@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-hub
+nvidia-cudnn-cu11
+
+tqdm
+pandas
+pillow
+matplotlib
+
+ipykernel
+ipywidgets

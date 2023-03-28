@@ -1,0 +1,4 @@
+outs:
+- md5: 985fcd6f5100b9296efdc621d6bb604b
+  size: 6079928
+  path: yoga_ds_with_keypoints.csv
