@@ -1,6 +1,6 @@
 # Yoga Pose Classification
 University course project:
-> Machine learning -- Ensemble Methods of Multi-class Classification on Imbalanced Dataset
+> Machine learning -- Ensemble learning strategies comparison on classification quality for imbalanced data
 
 ## Dev
 `pip install -r requirements.txt`
