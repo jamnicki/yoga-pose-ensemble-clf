@@ -1,4 +1,6 @@
 dvc[gdrive]
+scikit-learn
+
 black[jupyter]
 isort
 
